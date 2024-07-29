@@ -1,0 +1,3 @@
+- In the process of writing an LLM from scratch - adding some notebooks here and will update with the final ones later
+- Working towards reproducing GPT and GPT-3 like models
+- Also collecting data to finetune my model for a specific generative task
